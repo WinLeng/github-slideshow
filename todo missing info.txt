@@ -1,0 +1,7 @@
+member wont have btc missing info
+
+15015
+choose bus_natr
+
+https://jira.amway.com:8443/browse/AHVNM-11762
+
