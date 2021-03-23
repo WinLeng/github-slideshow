@@ -1,0 +1,19 @@
+{
+  "contract": {
+    "contractType": "AutoRenewal",
+    "effectiveStartDate": "2021-03-22T00:00:00+08:00",
+    "effectiveEndDate": "2099-03-22T00:00:00+08:00",
+    "acceptanceDate": "2021-03-22T00:00:00+08:00",
+    "contractSignDate": "2021-03-22T00:00:00+08:00",
+    "sourceChannelId": "Web",
+    "ipAddress": "",
+    "esign": "",
+    "seqNo": 1,
+    "partyId": 0,
+    "pdf": "",
+    "esignSourceChannelId": "Web",
+    "esignIpAddress": "",
+    "downloadable": "false",
+    "sourceRefNum": ""
+  }
+}
