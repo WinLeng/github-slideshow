@@ -13,7 +13,8 @@
     "pdf": "",
     "esignSourceChannelId": "Web",
     "esignIpAddress": "",
-    "downloadable": "false",
-    "sourceRefNum": ""
+    "downloadable": "true",
+    "sourceRefNum": "",
+    "customFld1": ""
   }
 }
